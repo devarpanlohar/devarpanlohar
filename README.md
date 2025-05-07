@@ -39,7 +39,7 @@ I’m a **frontend developer** who approaches code like music:
 
 ### 📫 Let's Connect  
 
-<table>
+<table align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/></a></td>
     <td><a href="https://www.linkedin.com/in/yourprofile">Connect on LinkedIn</a></td>
@@ -49,8 +49,8 @@ I’m a **frontend developer** who approaches code like music:
     <td><a href="https://twitter.com/yourhandle">Follow on Twitter</a></td>
   </tr>
   <tr>
-    <td>📧</td>
-    <td>devarpanlohar@gmail.com</td>
+    <td><a href="mailto:devarpanlohar@gmail.com"><img src="https://img.icons8.com/emoji/48/e-mail.png" alt="Email"/></a></td>
+    <td><a href="mailto:devarpanlohar@gmail.com">Reach me via Email</a></td>
   </tr>
 </table>
 
