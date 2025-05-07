@@ -1,19 +1,3 @@
-[<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hi%20there!%20I%27m%20Devarpan%20Lohar!🚀&fontSize=56&animation=scaleIn"
-    alt="Hi there! I'm Arpan Lohar!"
-    style="max-width: 100%; height: auto;"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&fontSize=24&animation=twinkling"
-    alt="Frontend Developer | Open Source Enthusiast | Learning Flutter"
-    style="max-width:100%; height:auto;"
-  />
-</p>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontAlign=50&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%&fontSize=24&animation=twinkling&descSize=20&fontSize=70)
-
 
 # Hi there, I'm Arpan Lohar! 👋
 
