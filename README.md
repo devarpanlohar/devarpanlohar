@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?  type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontAlign=50&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%&fontSize=24&animation=twinkling&descSize=20&fontSize=70&fontAlignY=40)" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontSize=70&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&descSize=20&animation=twinkling"
+    alt="Arpan Lohar | Frontend Developer Banner"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
+
 
 # Hi there, I'm Arpan Lohar! 👋
 
