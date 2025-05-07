@@ -38,9 +38,21 @@ I’m a **frontend developer** who approaches code like music:
 - Building [Athentication Module, Clinical Health Apps].
 
 ### 📫 Let's Connect  
-| [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/yourprofile) | Connect on LinkedIn |
-| [![Twitter](https://img.icons8.com/ios-filled/50/twitterx--v1.png)](https://twitter.com/yourhandle) | Follow on Twitter |
-| 📧 | devarpanlohar@gmail.com |
+
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/></a></td>
+    <td><a href="https://www.linkedin.com/in/yourprofile">Connect on LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-filled/28/twitterx--v1.png" alt="Twitter"/></a></td>
+    <td><a href="https://twitter.com/yourhandle">Follow on Twitter</a></td>
+  </tr>
+  <tr>
+    <td>📧</td>
+    <td>devarpanlohar@gmail.com</td>
+  </tr>
+</table>
 
 ---
 
