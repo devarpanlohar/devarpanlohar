@@ -39,17 +39,17 @@ I’m a **frontend developer** who approaches code like music:
 
 ### 📫 Let's Connect  
 
-<table align="center">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/></a></td>
+<table>
+  <tr align="center">
+    <td><a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluency/24/linkedin.png" alt="LinkedIn"/></a></td>
     <td><a href="https://www.linkedin.com/in/yourprofile">Connect on LinkedIn</a></td>
   </tr>
-  <tr>
-    <td><a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-filled/28/twitterx--v1.png" alt="Twitter"/></a></td>
+  <tr align="center">
+    <td><a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-filled/24/twitterx--v1.png" alt="Twitter"/></a></td>
     <td><a href="https://twitter.com/yourhandle">Follow on Twitter</a></td>
   </tr>
-  <tr>
-    <td><a href="mailto:devarpanlohar@gmail.com"><img src="https://img.icons8.com/emoji/28/e-mail.png" alt="Email"/></a></td>
+  <tr align="center">
+    <td><a href="mailto:devarpanlohar@gmail.com"><img src="https://img.icons8.com/emoji/24/e-mail.png" alt="Email"/></a></td>
     <td><a href="mailto:devarpanlohar@gmail.com">Reach me via Email</a></td>
   </tr>
 </table>
