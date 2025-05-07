@@ -1,16 +1,17 @@
 <p align="center">
-  <!-- Main waving header with your name -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I'm%20Devarpan%20Lohar!🚀&fontSize=60" 
-    alt="Header: Arpan Lohar"
-  />
-</p>
-
-<p align="center">
-  <!-- Sub-header with your roles -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&text=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Dart%20%26%20Flutter&fontSize=28&animation=twinkling" 
-    alt="Sub-header: Roles & Learning"
+  <img
+    src="https://capsule-render.vercel.app/api?
+      type=waving&
+      color=gradient&
+      height=180&
+      text=Devarpan%20Lohar&
+      fontSize=64&
+      desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&
+      descSize=24&
+      descAlign=50&
+      animation=fadeIn"
+    alt="Devarpan Lohar — Frontend Developer | Open Source Enthusiast | Learning Flutter"
+    style="max-width:100%; height:auto;"
   />
 </p>
 
