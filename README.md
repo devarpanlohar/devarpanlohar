@@ -1,4 +1,4 @@
-# Hi there, I'm Arpan Loharl! 👋
+# Hi there, I'm Arpan Lohar! 👋
 
 💻 **Frontend Developer** | **Open-Source Enthusiast** | Building Web Experiences  
 
@@ -13,7 +13,7 @@
 - [Project Name](https://github.com/yourusername/repo) - "Weather app using OpenWeather API"  
 
 ### 📈 GitHub Stats  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devarpanlohar&show_icons=true&theme=radical)](https://github.com/devarpanlohar)  
 
 ### 🌱 Current Goals  
 - Contributing to [open-source projects].  
