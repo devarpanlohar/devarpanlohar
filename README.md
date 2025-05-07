@@ -41,7 +41,7 @@ I’m a **frontend developer** who approaches code like music:
 ### 🌱 Current Goals
 
 - Contributing to [open-source projects].
-- Building [Athentication Module, Clinical Health Apps].
+- Building Authentication Module, Clinical Health Apps.
 
 ### 📫 Let's Connect
 
