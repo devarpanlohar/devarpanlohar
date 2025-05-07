@@ -49,7 +49,7 @@ I’m a **frontend developer** who approaches code like music:
     <td><a href="https://twitter.com/yourhandle">Follow on Twitter</a></td>
   </tr>
   <tr>
-    <td><a href="mailto:devarpanlohar@gmail.com"><img src="https://img.icons8.com/emoji/48/e-mail.png" alt="Email"/></a></td>
+    <td><a href="mailto:devarpanlohar@gmail.com"><img src="https://img.icons8.com/emoji/28/e-mail.png" alt="Email"/></a></td>
     <td><a href="mailto:devarpanlohar@gmail.com">Reach me via Email</a></td>
   </tr>
 </table>
