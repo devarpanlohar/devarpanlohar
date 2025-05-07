@@ -26,4 +26,12 @@
 
 ---
 
+### 🎶 About Me  
+I’m a **frontend developer** who approaches code like music:  
+- **Clean syntax** = perfect harmony.  
+- **Debugging** = improvising a solo.  
+- **UI/UX** = crafting a melody users love.  
+
+When offline, I’m jamming on my guitar or producing beats. 🎧  
+
 ⚡ **Fun Fact**: When I'm not coding, you'll find me strumming my guitar or composing melodies! Music fuels my creativity just like JavaScript fuels the web. 🎶
