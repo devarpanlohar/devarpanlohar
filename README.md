@@ -27,8 +27,8 @@ I’m a **frontend developer** who approaches code like music:
 
 ### 🚀 Featured Projects
 
-- [Nextra](https://github.com/yourusername/repo) - Short description (e.g., "E-commerce site with React & Firebase")
-- [Cloud](https://github.com/yourusername/repo) - "Weather app using OpenWeather API"
+- [Nextra](https://github.com/yourusername/repo) - Short description (e.g., "E-commerce site with React & MongoDB")
+- [Cloud](https://github.com/yourusername/repo) - "Weather app using Visual Crossing's Weather API"
 
 ### 📈 GitHub Stats
 
