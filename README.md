@@ -1,14 +1,24 @@
 <p align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontSize=70&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&descSize=20&animation=twinkling"
     alt="Arpan Lohar | Frontend Developer Banner"
     style="max-width: 100%; height: auto;"
   />
 </p>
 
-# Hi there, I'm Arpan Lohar! 👋
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdevarpanlohar">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevarpanlohar&countColor=%23263759&style=flat-square" alt="Visitors" />
+  </a>
+  <a href="https://github.com/devarpanlohar?tab=followers">
+    <img src="https://img.shields.io/github/followers/devarpanlohar?logo=github&style=flat-square&color=1DA1F2" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=devarpanlohar&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-💻 **Frontend Developer** | **Open-Source Enthusiast** | Building Web Experiences
+# Hi there, here is a little about me! 👋
+
+💻 **Frontend Developer** | **Open-Source Enthusiast** | **Building Web Experiences** | ☕ **Turning Coffee into Code**
 
 ### 🎶 About Me
 
@@ -27,8 +37,10 @@ I’m a **frontend developer** who approaches code like music:
 
 ### 🚀 Featured Projects
 
-- [Nextra](https://github.com/devarpanlohar/nextra) - "E-commerce site with React & MongoDB"
+- [Nextra](https://github.com/devarpanlohar/nextra) - Short description (e.g., "E-commerce site with React & Firebase")
 - [Cloud](https://github.com/devarpanlohar/cloud) - "Weather app using Visual Crossing's Weather API"
+
+> _Feel free to explore my GitHub repositories for more!_  
 
 ### 📈 GitHub Stats
 
@@ -38,19 +50,32 @@ I’m a **frontend developer** who approaches code like music:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devarpanlohar&theme=blueberry)](https://git.io/streak-stats)
 
+### 📈 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarpanlohar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
 ### 🌱 Current Goals
 
-- Contributing to [open-source projects].
+- Contributing to open-source projects.
 - Building Authentication Module, Clinical Health Apps.
 
 ### 📫 Let's Connect
 
 | Platform | Action |
 |:-------------:|:------:|
-| [![LinkedIn Icon](https://img.icons8.com/fluency/18/linkedin.png)](https://www.linkedin.com/in/yourprofile) | [Connect on LinkedIn](https://www.linkedin.com/in/yourprofile) |
-| [![Twitter Icon](https://img.icons8.com/ios-filled/18/twitterx--v1.png)](https://twitter.com/yourhandle)   | [Follow on Twitter](https://twitter.com/yourhandle)             |
-| [![Email Icon](https://img.icons8.com/emoji/18/e-mail.png)](mailto:devarpanlohar@gmail.com)           | [Reach me via Email](mailto:devarpanlohar@gmail.com)            |
+| [![LinkedIn Icon](https://img.icons8.com/fluency/22/linkedin.png)](https://www.linkedin.com/in/yourprofile) | <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> |
+| [![Twitter Icon](https://img.icons8.com/ios-filled/22/twitterx--v1.png)](https://twitter.com/yourhandle) | <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /> |
+| [![Email Icon](https://img.icons8.com/emoji/22/e-mail.png)](mailto:devarpanlohar@gmail.com) | <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /> |
 
----
+```js
+// A glimpse into my world
+const arpan = {
+  pronouns: "He/Him",
+  languages: ["JavaScript", "Python", "Dart", "Node.js"],
+  frameworks: ["React", "Flutter", "Next.js"],
+  currentFocus: "Building accessible, inclusive healthcare solutions",
+  funFact: "When I’m not debugging, I’m decoding melodies—can play 'Game of Thrones OST' backwards while crafting beats 🎸",
+};
+```
 
-⚡ **Fun Fact:** When I’m not crafting code, I’m crafting chords! 🎸 Whether I’m strumming my guitar, composing melodies, or producing beats, music is my second language. It fuels my creativity the same way JavaScript powers the web. 🎶🎧
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=50&fontAlign=50&fontAlignY=65)
