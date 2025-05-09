@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=devarpanlohar&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-# Hi there, here is a little about me! 👋
+# Hey there! 🌟 Let me take you on a quick tour of who I am—buckle up, it's going to be fun!
 
 💻 **Frontend Developer** | **Open-Source Enthusiast** | **Building Web Experiences** | ☕ **Turning Coffee into Code**
 
