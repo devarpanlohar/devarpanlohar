@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontSize=80&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&descSize=20&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontSize=90&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&descSize=20&animation=twinkling"
     alt="Arpan Lohar | Frontend Developer Banner"
     style="max-width: 100%; height: auto;"
   />
@@ -9,14 +9,14 @@
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdevarpanlohar">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevarpanlohar&countColor=%23263759&style=flat-square" alt="Visitors" />
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/devarpanlohar?tab=followers">
     <img src="https://img.shields.io/github/followers/devarpanlohar?logo=github&style=flat-square&color=1DA1F2" alt="GitHub Followers" />
-  </a>
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=devarpanlohar&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-## Hey there! 🌟 Let me take you on a quick tour of who I am—buckle up, it's going to be fun!
+## Hi there, here is a little about me! 👋
 
 💻 **Frontend Developer** | **Open-Source Enthusiast** | **Building Web Experiences** | ☕ **Turning Coffee into Code**
 
@@ -48,7 +48,7 @@ I’m a **frontend developer** who approaches code like music:
 
 ### 📈 GitHub Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devarpanlohar&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devarpanlohar&theme=blueberry&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata)](https://git.io/streak-stats)
 
 ### 📈 Top Languages
 
