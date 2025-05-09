@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontSize=70&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&descSize=20&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arpan%20Lohar&fontSize=80&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Learning%20Flutter&descSize=20&animation=twinkling"
     alt="Arpan Lohar | Frontend Developer Banner"
     style="max-width: 100%; height: auto;"
   />
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=devarpanlohar&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-# Hey there! 🌟 Let me take you on a quick tour of who I am—buckle up, it's going to be fun!
+## Hey there! 🌟 Let me take you on a quick tour of who I am—buckle up, it's going to be fun!
 
 💻 **Frontend Developer** | **Open-Source Enthusiast** | **Building Web Experiences** | ☕ **Turning Coffee into Code**
 
