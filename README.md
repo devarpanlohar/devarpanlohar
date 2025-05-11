@@ -50,7 +50,7 @@ I’m a **frontend developer** who approaches code like music:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devarpanlohar&theme=blueberry&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata)](https://git.io/streak-stats)
 
-### 📈 Top Languages
+### 📜 Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarpanlohar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
